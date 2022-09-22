@@ -5,6 +5,6 @@
   <p>i have a few closed-source projects</p>
   <p>im working on some open source ones so dw</p>
   <hr>
-  <a href="https://buymeacoffee.com/ethry">coffee</a>&nbsp;&nbsp;<a href="https://twitter.com/etheaary">twt</a>
-  <p>links may be out of date, last updated 22.09.22</p>
+  <center><a href="https://buymeacoffee.com/ethry">coffee</a>&nbsp;&nbsp;<a href="https://twitter.com/etheaary">twt</a>
+  <p>links may be out of date, last updated 22.09.22</p></center>
 </p>
